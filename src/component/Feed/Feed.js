@@ -1,11 +1,12 @@
 import React from 'react'
 
-const Youtube = () => {
+
+const Feed = () => {
   return (
     <div>
-      youtube lite
+      Feed
     </div>
   )
 }
 
-export default Youtube
+export default Feed
